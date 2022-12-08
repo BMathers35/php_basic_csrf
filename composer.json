@@ -1,0 +1,13 @@
+{
+    "name": "BMathers35/php_basic_csrf",
+    "description": "Simple CSRF control class with PHP",
+    "type": "library",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Baha Şener",
+            "email": "34012215+BMathers35@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
